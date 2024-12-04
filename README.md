@@ -26,7 +26,7 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/chat-app.git
+   git clone https://github.com/dadaisma/client.git
    cd chat-app
 
 2. Install dependencies for both client and server:
