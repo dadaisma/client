@@ -39,7 +39,7 @@ Running the Application
 
 1. Start the server:
 cd server
-node server.js
+npm run start
 
 2. Start the client:
 cd ..
